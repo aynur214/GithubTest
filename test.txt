@@ -1,1 +1,3 @@
 Bugün ilk defa github dersi göreceğim
+
+bu ikinci committir.
